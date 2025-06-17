@@ -9,5 +9,5 @@ This repo provides two delivery paths for containerized apps on ECS:
 ## Quickstart
 
 1. **Clone** this repo:
-   ```bash
+```bash
 git clone https://github.com/your-org/cicd-ecs-pipeline.git && cd cicd-ecs-pipeline
